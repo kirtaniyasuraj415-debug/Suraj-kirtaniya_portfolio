@@ -1,15 +1,19 @@
-# Suraj Kirtaniya — Portfolio
+# Suraj Kirtaniya Portfolio
 
-Premium single-page web developer portfolio with separate desktop/mobile compositions, glassmorphism, responsive layouts, motion, selected work, services, process and CTA.
+Premium single-page portfolio for Suraj Kirtaniya with dark glassmorphism, responsive desktop/mobile layouts, motion, selected work, services, process and CTA.
+
+## Main file
+
+- `index.html` — complete self-contained website (HTML + CSS + JavaScript)
 
 ## Run locally
 
-```bash
-python3 -m http.server 8000
-```
+Open `index.html` directly in a browser, or serve the folder with any static server.
 
-Then open `http://localhost:8000`.
+## Deploy / Edit
 
-## Deploy
+This is a static site and can be deployed directly to Vercel, Netlify, GitHub Pages, or imported into Google AI Studio for further editing.
 
-This is a static site and can be deployed directly to Vercel, Netlify or GitHub Pages.
+## Source
+
+This repository contains the full source of the portfolio version built in ChatGPT and deployed as the V4 portfolio prototype.
